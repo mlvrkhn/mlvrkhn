@@ -9,7 +9,7 @@
 ### Most recent project
 
 -   UNIT TESTING
-    -   design API architecture, using Jest testing library write neccessary unit tests,
+    -   design API architecture, using Jest testing library write necessary unit tests,
     -   create an client/SDK working with GitHub API that performs certain operations on your repositories and account settings,
     -   communicate with Restful API using secure token Authorization
 -   FETCH, API and ASYNC CODE
@@ -17,8 +17,8 @@
     -   build data validator, API handler,
     -   use full power of tools like Webpack, Babel, Linter,
     -   create Excursion Manager to handle the system
--   KABAN APP
-    -   build whole app architectre to implement Kanban management method,
-    -   communication via React Hooks with LocalStorage in Browser,
+-   KANBAN APP WITH REACT
+    -   build app architectre implementing Kanban management method tool,
+    -   communication via React Hooks with LocalStorage in browser,
     -   app build of function components and state using advanced hooks like useEffect, useState, useContex, etc.
 -   STYLED REACT COMPONENTS
