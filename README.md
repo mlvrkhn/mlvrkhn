@@ -2,7 +2,7 @@
 
 ## Hello. I am Martin, an enthusiastic, solution-oriented Junior Front-Web Developer working with JavaScript ES6, HTML5, CSS, Node.js and React.js.
 
-💻 Reach into my repositories and see my work!
+Reach into my repositories and see my work!
 
 ---
 
@@ -21,4 +21,3 @@
     -   build app architectre implementing Kanban management method tool,
     -   communication via React Hooks with LocalStorage in browser,
     -   app build of function components and state using advanced hooks like useEffect, useState, useContex, etc.
--   STYLED REACT COMPONENTS
