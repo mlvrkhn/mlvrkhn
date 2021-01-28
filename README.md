@@ -2,11 +2,11 @@
 
 ## Hello. I am Martin, an enthusiastic, solution-oriented Junior Front-Web Developer working with JavaScript ES6, HTML5, CSS, Node.js and React.js.
 
-💻 Feel free to reach into my repositories and see my work!
+💻 Reach into my repositories and see my work!
 
 ---
 
-### Recent repositories
+### Most recent project
 
 -   UNIT TESTING
     -   design API architecture, using Jest testing library write neccessary unit tests,
