@@ -1,6 +1,6 @@
 ![BackgroundPic](./Czarny%20i%20Żółte%20Męskie%20Sport%20Facebook%20Zdjęcie%20w%20Tle.png)
 
-## Hi. My name is Martin, an enthusiastic, solution-oriented Junior Front-Web Developer working with JavaScript ES6, HTML5, CSS, Node.js and React.js.
+## Hello. I am Martin, an enthusiastic, solution-oriented Junior Front-Web Developer working with JavaScript ES6, HTML5, CSS, Node.js and React.js.
 
 💻 Feel free to reach into my repositories and see my work!
 
@@ -16,7 +16,7 @@
     -   build a simple JSON database and implement a excursion ordering system with basket utility,
     -   build data validator, API handler,
     -   use full power of tools like Webpack, Babel, Linter,
-    -   create Excursion Manager to handle system,
+    -   create Excursion Manager to handle the system
 -   KABAN APP
     -   build whole app architectre to implement Kanban management method,
     -   communication via React Hooks with LocalStorage in Browser,
