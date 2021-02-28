@@ -1,8 +1,6 @@
 ![BackgroundPic](GHbgpic.png)
 
-## Hello. I´m Martin, a solution-oriented Junior Front-Web Developer working with JavaScript ES6, HTML5, CSS, Node.js, React.js and Redux.
-
-Find my recent work below.
+## Solution-oriented Front-Web Developer with background in Law. Working with JavaScript, Node.js, React.js and Redux. 
 
 ---
 
