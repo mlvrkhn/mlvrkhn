@@ -8,7 +8,7 @@
 
 ### KANBAN - japanese task management tool
 
-<img src="screenshoot.png" alt="screenshoot" width="350px"/>
+<img src="Screenshot.png" alt="screenshoot" width="350px"/>
 
 ### About 
 - web app architectre implementing Kanban management tool,
