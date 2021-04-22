@@ -27,9 +27,9 @@ My name is Martin, software developer with a background in Law. I am self taught
   </tr>
   <tr>
     <td>
-        <a href="https://mlvrkhn.github.io/bluebird-api/ alt="try_api">Try it out</a>
+        <a href="https://mlvrkhn.github.io/bluebird-api/" alt="try_api">Try it out</a>
         or
-        <a href="https://github.com/mlvrkhn/bluebird-api alt="code_api">see the code</a>
+        <a href="https://github.com/mlvrkhn/bluebird-api" alt="code_api">see the code</a>
       <ul>
         <li>build with React.js and Redux, Webpack and Babel</li>
         <li>dynamic API search separate as a module with error handling, type checking</li>
@@ -46,9 +46,9 @@ My name is Martin, software developer with a background in Law. I am self taught
   </tr>
   <tr>
     <td>
-        <a href="https://mlvrkhn.github.io/kanban_task_management_app">Try it out</a>
+        <a href="https://mlvrkhn.github.io/kanban_task_management_app" alt="kanban-try">Try it out</a>
         or
-        <a href="https://github.com/mlvrkhn/kanban_task_management_app/tree/master/kan-ban-san">see the code</a>
+        <a href="https://github.com/mlvrkhn/kanban_task_management_app/tree/master/kan-ban-san" alt="kanban-code">see the code</a>
       <ul>
         <li>web app architectre implementing Kanban management tool</li>
         <li>communication via custom hook useLocalStorage with browsers memory</li>
