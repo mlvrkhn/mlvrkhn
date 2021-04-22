@@ -2,9 +2,9 @@
 
 I am Martin, software developer with a background in Law. I am self taught and I work mostly with JavaScript and React.js. 
 
-<div style="color: goldenrod; font-size: 22px; padding: 10px;">
+<p style="color: goldenrod; font-size: 22px; padding: 10px;">
   Currently looking for a job 💼 
-</div>
+</p>
 
 ## Tech I use:
 
@@ -16,11 +16,10 @@ I am Martin, software developer with a background in Law. I am self taught and I
 
 
 ## My recent projects
-<div style="border: 1px solid gray">
+<div style="border: 1px solid goldenrod">
 <table>
   <tr>
     <td><h3>Search Brønnøysundregisteret</h3></td>
-    <td></td>
   </tr>
   <tr>
     <td>
@@ -41,7 +40,6 @@ I am Martin, software developer with a background in Law. I am self taught and I
 <table>
   <tr>
     <td><h3>Kanban - japanese task management tool</h3></td>
-    <td></td>
   </tr>
   <tr>
     <td>
@@ -62,7 +60,6 @@ I am Martin, software developer with a background in Law. I am self taught and I
 <table>
   <tr>
     <td><h3>Software Development Kit for Github + Unit Testing</h3></td>
-    <td></td>
   </tr>
   <tr>
     <td>
@@ -81,7 +78,6 @@ I am Martin, software developer with a background in Law. I am self taught and I
 <table>
   <tr>
     <td><h3>CRUD Excursion Manager</h3></td>
-    <td></td>
   </tr>
   <tr>
     <td>
