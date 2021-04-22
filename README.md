@@ -1,15 +1,18 @@
 ## **Hey hey!** 👋
 
-I am Martin, software developer with a background in Law. I am self taught and I work mostly with JavaScript and React.js. 
+<p>My name is Martin, software developer with a background in Law. I am self taught and I work mostly with JavaScript and React.js.</p>
 
 <p style="color: goldenrod; font-size: 22px; padding: 10px;">
   Currently looking for a job 💼 
 </p>
+<div style="color: goldenrod; font-size: 22px; padding: 10px;">
+  Currently looking for a job 💼 
+</div>
 
 ## Tech I use:
 
 - <img src="https://img.shields.io/badge/JavaScript-goldenrod?logo=JavaScript&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/HTML5-lightblue?logo=html5&style=flat-square&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-pink?logo=css3&style=flat-square&logoColor=blue"> <img src="https://img.shields.io/badge/React.js-blue?logo=React&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Redux-violet?logo=redux&style=flat-square&logoColor=white">
--   <img src="https://img.shields.io/badge/React Router-indianred?logo=React Router&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Jest-firebrick?logo=jest&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Styled components-hotpink?logo=Styled-components&style=flat-square&logoColor=purple"> <img src="https://img.shields.io/badge/JSON-black?logo=JSON&style=flat-square&logoColor=white">
+-   <img src="https://img.shields.io/badge/React.Router-indianred?logo=React Router&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Jest-firebrick?logo=jest&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Styled components-hotpink?logo=Styled-components&style=flat-square&logoColor=purple"> <img src="https://img.shields.io/badge/JSON-black?logo=JSON&style=flat-square&logoColor=white">
 - <img src="https://img.shields.io/badge/npm.js-red?logo=npm&style=flat-square&logoColor=red"> <img src="https://img.shields.io/badge/Webpack-blue?logo=Webpack&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-darkgreen?logo=Node.js&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Sass-hotpink?logo=sass&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap4-darkviolet?logo=Bootstrap&style=flat-square&logoColor=white">  
 - <img src="https://img.shields.io/badge/Git-black?logo=Git&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-white?logo=Github&style=flat-square&logoColor=black"> <img src="https://img.shields.io/badge/Markdown-darkblue?logo=Markdown&style=flat-square&logoColor=white">
 
