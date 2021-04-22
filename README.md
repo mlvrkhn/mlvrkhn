@@ -20,6 +20,7 @@ I am Martin, software developer with a background in Law. I am self taught and I
 <table>
   <tr>
     <td><h3>Search Brønnøysundregisteret</h3></td>
+    <td><br></td>
   </tr>
   <tr>
     <td>
@@ -40,6 +41,7 @@ I am Martin, software developer with a background in Law. I am self taught and I
 <table>
   <tr>
     <td><h3>Kanban - japanese task management tool</h3></td>
+    <td></td>
   </tr>
   <tr>
     <td>
@@ -60,6 +62,7 @@ I am Martin, software developer with a background in Law. I am self taught and I
 <table>
   <tr>
     <td><h3>Software Development Kit for Github + Unit Testing</h3></td>
+    <td></td>
   </tr>
   <tr>
     <td>
@@ -78,6 +81,7 @@ I am Martin, software developer with a background in Law. I am self taught and I
 <table>
   <tr>
     <td><h3>CRUD Excursion Manager</h3></td>
+    <td></td>
   </tr>
   <tr>
     <td>
