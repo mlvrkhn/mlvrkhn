@@ -5,9 +5,7 @@
 <p style="color: goldenrod; font-size: 22px; padding: 10px;">
   Currently looking for a job 💼 
 </p>
-<div style="color: goldenrod; font-size: 22px; padding: 10px;">
-  Currently looking for a job 💼 
-</div>
+<span style="color:goldenrod">Currently looking for a job 💼 </span>.
 
 ## Tech I use:
 
