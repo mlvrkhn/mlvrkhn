@@ -1,9 +1,14 @@
 ## **Hey hey!** 👋
 
-<p>My name is Martin, software developer with a background in Law. I am self taught and I work mostly with JavaScript and React.js.</p>
+My name is Martin, software developer with a background in Law. I am self taught and I work mostly with JavaScript and React.js.
+
+## About me
+- 👨‍💻 Speaking 🏴󠁧󠁢󠁥󠁮󠁧󠁿  🇳🇴  🇵🇱 learning 🇪🇸
+- 🌱 Learning: Azure, React Testing Library, Headless CMS.
+- 💻 Future: TypeScript, Svelte, Firebase
+- 🤓 Perseverant, motivated, involved
 
 # Currently looking for a job 💼 🤗
-
 
 ## Tech I use:
 
@@ -11,7 +16,6 @@
 -   <img src="https://img.shields.io/badge/React.Router-indianred?logo=React Router&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Jest-firebrick?logo=jest&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Styled components-hotpink?logo=Styled-components&style=flat-square&logoColor=purple"> <img src="https://img.shields.io/badge/JSON-black?logo=JSON&style=flat-square&logoColor=white">
 - <img src="https://img.shields.io/badge/npm.js-red?logo=npm&style=flat-square&logoColor=red"> <img src="https://img.shields.io/badge/Webpack-blue?logo=Webpack&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-darkgreen?logo=Node.js&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Sass-hotpink?logo=sass&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap4-darkviolet?logo=Bootstrap&style=flat-square&logoColor=white">  
 - <img src="https://img.shields.io/badge/Git-black?logo=Git&style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-white?logo=Github&style=flat-square&logoColor=black"> <img src="https://img.shields.io/badge/Markdown-darkblue?logo=Markdown&style=flat-square&logoColor=white">
-
 
 
 ## My recent projects
@@ -92,3 +96,4 @@
 - minimalism ♡
 - browsing maps 🗺
 - reading novels 📙 and spending time outside 🌳
+- drinking water💧
