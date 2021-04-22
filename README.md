@@ -36,6 +36,23 @@ I am Martin, software developer with a background in Law. I am self taught and I
     </td>
     <td><img src="brreg_preview.png" alt="brreg_preview" width="300px" height="auto"></td>
   </tr>
+  <tr>
+    <td><h3>Kanban - japanese task management tool</h3></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://mlvrkhn.github.io/kanban_task_management_app">Try it out</a>
+        or
+        <a href="https://github.com/mlvrkhn/kanban_task_management_app/tree/master/kan-ban-san">see the code</a>
+      <ul>
+        <li>web app architectre implementing Kanban management tool</li>
+        <li>communication via custom hook useLocalStorage with browsers memory</li>
+        <li>build with functional components and state management using React Hooks (useEffect, useState, useContex, useRef, etc.)</li>
+      </ul>
+    </td>
+    <td><img src="Screenshot.png" alt="ScreenshotKanban" width="400px" height="auto"></td>
+  </tr>
 </table>
 
 <table>
