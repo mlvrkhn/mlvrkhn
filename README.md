@@ -2,10 +2,8 @@
 
 <p>My name is Martin, software developer with a background in Law. I am self taught and I work mostly with JavaScript and React.js.</p>
 
-<p style="color: goldenrod; font-size: 22px; padding: 10px;">
-  Currently looking for a job 💼 
-</p>
-<span style="color:goldenrod">Currently looking for a job 💼 </span>.
+# Currently looking for a job 💼 🤗
+
 
 ## Tech I use:
 
