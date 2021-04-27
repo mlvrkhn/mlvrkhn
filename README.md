@@ -41,6 +41,38 @@ My name is Martin, software developer with a background in Law. I am self taught
   </tr>
 
   <tr>
+    <td><h3>Headless CMS Blog</h3></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://github.com/mlvrkhn/BlogCMS" alt="blog-link">Try it out</a>
+      <ul>
+        <li>Headless CMS fields to remotely manage blog content</li>
+        <li>React Router DOM for Routing</li>
+        <li>React Hooks, React Helmet, React Styled Components</li>
+      </ul>
+    </td>
+    <td><img src="blog-s.png" alt="blog-preview" width="300px" height="auto"></td>
+  </tr>
+
+  <tr>
+    <td><h3>Redux Calendar</h3></td>
+    <td><br></td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://github.com/mlvrkhn/Redux-Calendar" alt="code_api">see the code</a>
+      <ul>
+        <li>build with Redux, React, Webpack and Babel</li>
+        <li>React Transition Library for animations</li>
+        <li>dedicated API for storing data (JSON server)</li>
+      </ul>
+    </td>
+    <td><img src="task-manager-preview.png" alt="task-manager-image" width="300px" height="auto"></td>
+  </tr>
+
+  <tr>
     <td><h3>Kanban - japanese task management tool</h3></td>
     <td></td>
   </tr>
@@ -96,4 +128,5 @@ My name is Martin, software developer with a background in Law. I am self taught
 - minimalism ♡
 - browsing maps 🗺
 - reading novels 📙 and spending time outside 🌳
+- XIX century
 - drinking water💧
