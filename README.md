@@ -1,6 +1,6 @@
 ## **Hey hey!** 👋
 
-My name is Martin, software developer with a background in Law. I am self taught and I work mostly on the Front End with JavaScript and React.js.
+My name is Martin, I am a software developer with a background in Law. I am self taught and I work mostly on the Front End with JavaScript and React.js.
 
 <table>
   <tr>
@@ -11,7 +11,6 @@ My name is Martin, software developer with a background in Law. I am self taught
     <td>
       <ul>
         <li>👨‍💻 Speaking 🏴󠁧󠁢󠁥󠁮󠁧󠁿  🇳🇴  🇵🇱 learning 🇪🇸</li>
-        <li>🌱 Learning: Azure, React Testing Library, Headless CMS.</li>
         <li>💻 Shortlist: TypeScript, Svelte, Firebase</li>
         <li>🤓 Perseverant, motivated, involved</li>
       </ul>
@@ -19,10 +18,9 @@ My name is Martin, software developer with a background in Law. I am self taught
     <td>
       <ul>
         <li>minimalism ♡</li>
-        <li>browsing maps 🗺</li>
+        <li>browsing maps 🗺 and drinking water💧</li>
         <li>reading novels 📙 and spending time outside 🌳</li>
         <li>XIX century 📚</li>
-        <li>drinking water💧</li>
       </ul>
     </td>
   </tr>
