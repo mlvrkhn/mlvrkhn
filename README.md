@@ -26,7 +26,7 @@ My name is Martin, I am a software developer with a background in Law. I am self
   </tr>
 </table>
 
-# Currently looking for a job 💼 🤗
+# Hireable 💼 🤗
 
 ## Tech I use:
 
